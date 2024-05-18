@@ -37,6 +37,11 @@ We welcome any contributions or feedback. Here’s how you can get involved:
 For any questions or feedback, please reach out to us:
 
 
+## Current Progress
+### Home Screen
+![Screenshot from 2024-05-18 21-13-53](https://github.com/web-team-cive/TIGO-APP/assets/76619967/9a45f323-d09b-4afd-a61c-8d56d4493937)
+
+
 ## License
 
 This project is for educational purposes only and is not an official redesign of the TIGO mobile app.
