@@ -39,9 +39,10 @@ For any questions or feedback, please reach out to us:
 
 ## Current Progress
 ### Home Screen
-![alt text](<screenshots/Screenshot from 2024-05-18 21-28-36.png>)
+![HOME](https://github.com/web-team-cive/tigo-app-ui/assets/144240862/0f73b8ce-b4c3-424c-9184-dc6c08fbd471)
 
 
 ## License
+
 
 This project is for educational purposes only and is not an official redesign of the TIGO mobile app.
